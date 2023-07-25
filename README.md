@@ -8,7 +8,7 @@ docker-compose up
 ```
 コンテナにはいる(prepro_praにサフィックスがついていると思います)
 ```
-docker exec -it コンテナ名 bash
+docker exec -it コンテナid bash
 ```
 ディレクトリの変更
 
